@@ -23,7 +23,7 @@ class Player():
         self.width = 25
         self.height = 50
         self.speed = 4
-        self.color = "grey"
+        self.color 
         self.alive = True 
 
 class Enemy():
